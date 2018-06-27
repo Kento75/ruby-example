@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ddf1011-6e8c-4de3-9f28-2c04254755bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sec2-9/error_recue1.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec3-1/case.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec3-1/test1.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec3-2/for_in.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec3-2/for_loop.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec3-2/loop.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec3-2/next_loop.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/usage.statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/usage.statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -20,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sec3-2/for_in.rb">
+        <entry file="file://$PROJECT_DIR$/sec3-2/next_loop.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            <state relative-caret-position="119">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -64,6 +59,10 @@
         <option value="$PROJECT_DIR$/sec3-2/loop.rb" />
         <option value="$PROJECT_DIR$/sec3-2/for_loop.rb" />
         <option value="$PROJECT_DIR$/sec3-2/for_in.rb" />
+        <option value="$PROJECT_DIR$/sec3-2/for_in2.rb" />
+        <option value="$PROJECT_DIR$/sec3-2/infinity_loop.rb" />
+        <option value="$PROJECT_DIR$/sec3-2/limited_loop.rb" />
+        <option value="$PROJECT_DIR$/sec3-2/next_loop.rb" />
       </list>
     </option>
   </component>
@@ -104,6 +103,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kento\RubymineProjects\ruby-example\sec3-2" />
       <recent name="C:\Users\kento\RubymineProjects\ruby-example" />
     </key>
   </component>
@@ -133,12 +133,12 @@
       <workItem from="1529268229315" duration="2482000" />
       <workItem from="1529614359700" duration="2222000" />
       <workItem from="1529673597461" duration="191000" />
-      <workItem from="1530099362166" duration="1074000" />
+      <workItem from="1530099362166" duration="1716000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5969000" />
+    <option name="totallyTimeSpent" value="6611000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -324,8 +324,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sec3-2/for_in.rb">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec3-2/for_in2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec3-2/infinity_loop.rb">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec3-2/limited_loop.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec3-2/next_loop.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
         </state>
       </provider>
     </entry>
