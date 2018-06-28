@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ddf1011-6e8c-4de3-9f28-2c04254755bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sec3-2/next_loop.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/usage.statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/usage.statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -15,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sec3-2/next_loop.rb">
+        <entry file="file://$PROJECT_DIR$/sec3-3/err_info.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+            <state relative-caret-position="153">
+              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -63,6 +62,9 @@
         <option value="$PROJECT_DIR$/sec3-2/infinity_loop.rb" />
         <option value="$PROJECT_DIR$/sec3-2/limited_loop.rb" />
         <option value="$PROJECT_DIR$/sec3-2/next_loop.rb" />
+        <option value="$PROJECT_DIR$/sec3-2/data.rb" />
+        <option value="$PROJECT_DIR$/sec3-3/retry.rb" />
+        <option value="$PROJECT_DIR$/sec3-3/err_info.rb" />
       </list>
     </option>
   </component>
@@ -90,6 +92,11 @@
             <path>
               <item name="ruby-example" type="b2602c69:ProjectViewProjectNode" />
               <item name="ruby-example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ruby-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruby-example" type="462c0819:PsiDirectoryNode" />
+              <item name="sec3-3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -133,18 +140,17 @@
       <workItem from="1529268229315" duration="2482000" />
       <workItem from="1529614359700" duration="2222000" />
       <workItem from="1529673597461" duration="191000" />
-      <workItem from="1530099362166" duration="1716000" />
+      <workItem from="1530099362166" duration="2415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6611000" />
+    <option name="totallyTimeSpent" value="7310000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -157,7 +163,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3276923" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3276923" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -354,6 +360,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec3-2/data.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#42#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec3-3/retry.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec3-3/err_info.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
         </state>
       </provider>
     </entry>
